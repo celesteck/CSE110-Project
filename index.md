@@ -1,8 +1,8 @@
 # **Celeste Keyes**
 > UC San Diego: *Math- Computer Science*, Class of 2025
 > 
-- [Introduction] (## Introduction)
-- [Personal] (## Me)
+[Introduction](## Introduction)
+[Personal](## Me)
 
 
 
@@ -32,3 +32,5 @@ I have seen them 3 times in concert and will see them 3 more times this Spring!
 
 I also enjoy learning about myself and others. For example, I love exploring personality types and taking fun quizzes. Although I am very aware of the consequences of typing yourself, I think there is still a lot to learn from things like these! 
 I am an INFJ. ![infj](https://c4.staticflickr.com/4/3871/18216353004_fefb8f960d.jpg) 
+
+I am looking forward to working with a team this quarter in CSE110! 
