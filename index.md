@@ -3,7 +3,7 @@
 > 
 - [Introduction](https://github.com/celesteck/CSE110-Project/blob/main/index.md#introduction)
 - [Personal](https://github.com/celesteck/CSE110-Project/blob/main/index.md#me)
-
+- [ReadMe](https://github.com/celesteck/CSE110-Project/blob/main/README.md)
 
 
 ## **Introduction**
