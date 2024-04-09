@@ -1,8 +1,8 @@
 # **Celeste Keyes**
 > UC San Diego: *Math- Computer Science*, Class of 2025
 > 
-- [## Introduction](https://github.com/celesteck/CSE110-Project/blob/main/index.md#introduction)
-- [[Personal](## Me)](https://github.com/celesteck/CSE110-Project/blob/main/index.md#me)
+- [Introduction](https://github.com/celesteck/CSE110-Project/blob/main/index.md#introduction)
+- [Personal](https://github.com/celesteck/CSE110-Project/blob/main/index.md#me)
 
 
 
