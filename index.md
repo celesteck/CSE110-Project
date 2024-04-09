@@ -1,8 +1,8 @@
 # **Celeste Keyes**
 > UC San Diego: *Math- Computer Science*, Class of 2025
 > 
-[Introduction](## Introduction)
-[Personal](## Me)
+- [Introduction](## Introduction)
+- [Personal](## Me)
 
 
 
